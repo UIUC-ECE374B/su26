@@ -13,7 +13,7 @@ deliverydate: 2025-05-19
 link-slides: /materials/lecture_slides/lec1.pdf
 link-scribbles: /materials/lecture_slides/lec1_scribbles_fa24.pdf
 link-recording: "https://mediaspace.illinois.edu/media/t/1_o7rruiy0"
-pre-recording: 
+pre-recording: "https://youtube.com/playlist?list=PLmCFrqjQFNr1AmkfSmhhXkaodw64FBo4L&si=jMC-h_VamltvGO9R"
 ---
 
 #### Strings and Languages

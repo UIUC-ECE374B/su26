@@ -13,7 +13,7 @@ deliverydate: 2025-05-19 #last updated date
 link-slides: /materials/lecture_slides/lec0.pdf
 link-scribbles: /materials/lecture_slides/lec0_scribbles_fa24.pdf
 link-recording: "https://mediaspace.illinois.edu/media/t/1_eqr6mwfe"
-pre-recording: 
+pre-recording: "https://youtube.com/playlist?list=PLmCFrqjQFNr0J4lhl-mKjd6NyTbCZf0CL&si=E8v_gIeOWXE34E9Q"
 ---
 
 Course policies can be found on the website [ecealgo.com](https://ecealgo.com).
