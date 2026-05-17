@@ -1,0 +1,106 @@
+---
+layout: default
+title: Home
+notitle: true
+
+# groups of columns of {roles: list, width: num, image: bool}
+role-tables:
+- - roles: [faculty]
+    width: 4
+    image: true
+  - roles: [grad]
+    width: 8
+    image: true
+- - roles: [ugrad]
+    width: 12
+    image: true
+
+
+# putting in a archived version for off-semesters
+role-archive-tables:
+- - roles: [faculty]
+    width: 4
+    image: true
+  - roles: [faculty-alum]
+    width: 8
+    image: true
+- - roles: [grad-alum]
+    width: 12
+    image: true
+- - roles: [ugrad-alum]
+    width: 12
+    image: true
+---
+
+{% if site.archived == true %}   
+<section style="text-align: center;">
+    <a href="https://ecealgo.com/fa24" class="button-row button4"> Current iteration - Fall 2024 </a> 
+</section>
+{% endif %}
+
+<div class="jumbotron">
+    <p>
+        CS/ECE 374 covers fundamental tools and techniques from theoretical computer science, including design and analysis of algorithms, formal languages and automata, computability, and complexity. Specific topics include regular and context-free languages, finite-state automata, recursive algorithms (including divide and conquer, backtracking, dynamic programming, and greedy algorithms), fundamental graph algorithms (including depth- and breadth-first search, topological sorting, minimum spanning trees, and shortest paths), undecidability, and NP-completeness. The course also has a strong focus on clear technical communication.
+    </p>
+</div>
+
+<section style="text-align: center;">
+    <a href="https://piazza.com/class/mawzubwp36h7mg" class="button button1">Forum (Piazza)</a> 
+    <a href="https://www.gradescope.com/courses/1044609" class="button button2">Submit HWs (Gradescope)</a> 
+    <a href="https://canvas.illinois.edu/courses/58220" class="button button3">Gradebook (Canvas)</a> 
+</section>
+
+<section>
+    <h2>News</h2>
+    <ul class="news list-unstyled">
+        {% for post in site.posts limit: site.front_page_news %}
+            {% include news-item.html item=post %}
+        {% endfor %}
+    </ul>
+    {% assign numposts = site.posts | size %}
+    {% if numposts >= 1 %}
+        <p>
+            <span class="fa fa-fw fa-history"></span>
+            <a href="{{ site.base }}/blog.html">Older posts&hellip;</a>
+        </p>
+    {% endif %}
+</section>
+
+
+<h2>Schedule Quicklinks</h2>
+{% include quicklinks.html%}
+
+
+{% if site.archived != true %}
+<div id="people">
+    <h2>People</h2>
+    {% for role-table in page.role-tables %}
+        <section class="people row justify-content-between">
+            {% for role-column in role-table %}
+                <div class="col-md-{{ role-column.width }}">
+                    {% for role in role-column.roles %}
+                        {% include role-people.html role=role image=role-column.image %}
+                    {% endfor %}
+                </div>
+            {% endfor %}
+        </section>
+    {% endfor %}
+</div>
+{% else %}
+<div id="people">
+    <h2>People</h2>
+    {% for role-table in page.role-archive-tables %}
+        <section class="people row justify-content-between">
+            {% for role-column in role-table %}
+                <div class="col-md-{{ role-column.width }}">
+                    {% for role in role-column.roles %}
+                        {% include role-people.html role=role image=role-column.image %}
+                    {% endfor %}
+                </div>
+            {% endfor %}
+        </section>
+    {% endfor %}
+</div>
+{% endif %}
+
+

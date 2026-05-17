@@ -1,0 +1,80 @@
+hw1: 
+  num: 1
+  topic: RegEx and DFAs
+  num-problems: 2
+  assigned-date: 2025-05-20
+  due-date: 2025-05-26
+  questions-link: /materials/homeworks/hw1.pdf
+  solutions-link: 
+
+hw2: 
+  num: 2
+  topic: Language Transforms and Fooling Sets
+  num-problems: 3
+  assigned-date: 2025-05-27
+  due-date: 2025-06-02
+  questions-link: /materials/homeworks/hw2.pdf
+  solutions-link: 
+
+hw3: 
+  num: 3
+  topic: Context-Free Languages
+  num-problems: 2
+  assigned-date: 2025-06-03
+  due-date: 2025-06-09
+  questions-link: /materials/homeworks/hw3.pdf
+  solutions-link: 
+
+hw4: 
+  num: 4
+  topic: Recursion and Divide & Conquer
+  num-problems: 2
+  assigned-date: 2025-06-10
+  due-date: 2025-06-16
+  questions-link: /materials/homeworks/hw4.pdf
+  solutions-link: 
+
+hw5: 
+  num: 5
+  topic: Dynamic Programming
+  num-problems: 3
+  assigned-date: 2025-06-24
+  due-date: 2025-06-30
+  questions-link: /materials/homeworks/hw5.pdf
+  solutions-link: 
+
+hw6: 
+  num: 6
+  num-problems: 3
+  topic: Graphing Algorithms
+  assigned-date: 2025-07-01
+  due-date: 2025-07-07
+  questions-link: /materials/homeworks/hw6.pdf
+  solutions-link: 
+
+hw7: 
+  num: 7
+  topic: Shortest Paths
+  num-problems: 2
+  assigned-date: 2025-07-08
+  due-date: 2025-07-14
+  questions-link: /materials/homeworks/hw7.pdf
+  solutions-link: 
+
+hw8: 
+  num: 8
+  topic: Reductions, NP-Completeness
+  num-problems: 3
+  assigned-date: 2025-07-22
+  due-date: 2025-07-28
+  questions-link: /materials/homeworks/hw8.pdf
+  solutions-link: 
+
+hw9: 
+  num: 9
+  topic: NP-Completeness, Decidability
+  num-problems: 2
+  assigned-date: 2025-07-29
+  due-date: 2025-08-04
+  questions-link: /materials/homeworks/hw9.pdf
+  solutions-link: 
