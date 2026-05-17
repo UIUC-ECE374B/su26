@@ -44,7 +44,7 @@ roles:
 front_page_news: 3
 
 # Base pathname for links.
-base: '/su25'
+base: '/su26'
 
 # make pages for the colections
 collections:
