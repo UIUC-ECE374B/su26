@@ -8,7 +8,7 @@ description: Now that we've formulated our solutions as recurrences, let's turn 
 people:
 layout: post
 no-link: true  # stops link to page 
-deliverydate: 2025-06-24
+deliverydate: 2026-06-24
 link-questions: /materials/labs/lab12.pdf
 link-solutions: /materials/labs/lab12-sol.pdf
 link-recording: https://mediaspace.illinois.edu/media/t/1_01wum5ud/347892222

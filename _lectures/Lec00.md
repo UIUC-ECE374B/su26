@@ -9,7 +9,7 @@ people:
   - kani
 layout: lecture
 # no-link: true  # stops link to page 
-deliverydate: 2025-05-19 #last updated date
+deliverydate: 2026-05-19 #last updated date
 link-slides: /materials/lecture_slides/lec0.pdf
 link-scribbles: /materials/lecture_slides/lec0_scribbles_fa24.pdf
 link-recording: "https://mediaspace.illinois.edu/media/t/1_eqr6mwfe"
