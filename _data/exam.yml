@@ -1,7 +1,7 @@
 MT1: 
   num: 1
   topic: Languages complexity 
-  date: 2025-06-10
+  date: 2026-06-10
   samp_exam1: /materials/exams/samples/midterm1-sp23.pdf
   samp_exam2: /materials/exams/samples/midterm1-fa23.pdf
   samp_exam1_sol: /materials\exams\samples\midterm1-sol-sp23.pdf
@@ -14,7 +14,7 @@ MT1:
 MT2: 
   num: 2
   topic: Algorithms 
-  date: 2025-07-15
+  date: 2026-07-15
   samp_exam1: /materials/exams/samples/midterm2-sp23.pdf
   samp_exam2: /materials/exams/samples/midterm2-fa23.pdf
   samp_exam1_sol: /materials\exams\samples\midterm2-sol-sp23.pdf
@@ -27,7 +27,7 @@ MT2:
 MT3: 
   num: 3
   topic: NP-completeness and decidability 
-  date: 2025-08-05
+  date: 2026-08-05
   samp_exam1: /materials/exams/samples/midterm3-sp23.pdf
   samp_exam2: /materials/exams/samples/midterm3-fa23.pdf
   samp_exam1_sol: /materials\exams\samples\midterm3-sol-sp23.pdf
