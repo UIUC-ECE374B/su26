@@ -9,40 +9,18 @@ There are two components to your raw total:
 
 - [Homeworks](/homeworks.html): 25%
     - Remember we have a drop policy so if you miss a homework due to illness or did not perform as well as you'd hoped, you have an opportunity to bounce back. 
-    - Specifically, we will include only the top 14 homework problems (including the lab problems) scores in computing your final grade. We expect to grade 9 homeworks, each with 2-3 problems. Should for some reason we would grade less homework problems, we will still use the top 14 homework problems.
-    - If you submit everything, this policy is equivalent to dropping 9 homework problems.
-    - **If you submit less than 20 homework problems** you are likely to fail unless there is an overriding excuse.
+    - Specifically, we will include only the top 18 homework problems (including the lab problems) scores in computing your final grade. We expect to grade 9 homeworks, each with 2-3 problems. Should we, for some reason, grade less homework problems, we will still use the top 18 homework problems.
+    - If you submit everything, this policy is equivalent to dropping 4 homework problems.
 - [Exams](/exams.html): 75%
     - There will be three midterm exams
-    - I will use a flat curve to make all the exam averages to be **approximately** 70 points. Thus it should be beneficial to drop one exam over another. 
+    - I will use a flat curve to make all the exam averages to be **approximately** 78 points. Thus it should be beneficial to drop one exam over another. 
     - I firmly believe that an exam grade distribution with a mean of 50 is best because it allows me to maximize the standard deviation on both ends. This is important to me since tests with a large uniform distribution allow test takers to make a few mistakes without altering their final grade too much. 
         - The above being said, I have made an effort to increase the average of my exams to ~70 to be more in line with typical American standards (though I still refuse to give trivial problems just for the sake of increasing the average so some exams may have lower averages). I'm doing this simply because there is a minority of students who vehemently believe all tests should have an average of at least 70 and don't even pay attention to standard deviation. They are wrong, and in the past semesters where the exam averages were higher, final grade cutoffs were significantly smaller which meant a lot of people missed a letter grade because of a missed exam problem. That sucks. But this minority of students that committed to this idea of high averages is aggressively vocal (especially online) and those that understand the policy and its benefits don't speak up. I'm not here to be a martyr so if you do agree with me about the larger distribution, please speak up. Email the department admins, contact your student organizations, etc. But I have fought long and hard to change this course for (in my opinion) the better and have been thoroughly shut down. I can't do it anymore.   
 
 
 #### Final grade calculation 
 
-Here is the thing, no one use the standard cutoff calculation. **All professors grade relatively**. Yes, even the ones that say they don't. Those professors that say they have a firm, preset grading cutoff are usually older and have banks of questions that they have tested over the course of decades, so they know the performance distribution of any particular question ahead of time. 
-
-I can't do this since I try to constantly find and develop new problems and hence, I'm never really sure how hard the students will find these new problems. So while I won't give anyone a grade less than the distribution above dictates, I will use an additional relative grading scheme layer where the cutoffs are determined such that the percentage of students getting each letter grades is approximately:  
-
-<table id="customers">
-    <tr>
-        <td> A's  </td>
-        <td> B's  </td>
-        <td> C's  </td>
-        <td> D's and F's  </td>
-    </tr>
-    <tr>
-        <td> 30%   </td>
-        <td> 35%  </td>
-        <td> 25%  </td>
-        <td> 10%  </td>
-    </tr>
-</table>
-
-Usually I would do this at the end of the semester once I have the grade distribution in hand. However, this has slowly caused a weird psychology among some students. During the semester some students would be worried because they weren't quite sure what their final grade would be and others would be totally relaxed even though they had scored many deviations below the mean on their exams because they were counting on the curve at the end. The situation has become toxic.
-
-But here's the good news. I've taught this course enough times so that I have a pretty good idea of the final grade distribution. So I am going to simply assign the cutoffs now. As long as nothing insane happens (like 10% of the course getting A's or >10% course getting F's), this will be the cutoffs I'm sticking to in the end. Keep in mind, **I am still flat curving all the exams to at least 70**.  
+I've taught this course enough times so that I have a pretty good idea of the final grade distribution. So I am going to simply assign the cutoffs now. As long as nothing insane happens (like 10% of the course getting A's or >10% course getting F's), this will be the cutoffs I'm sticking to in the end. Keep in mind, **I am still flat curving all the exams to at least 78**.  
 
 <table id="customers">
     <tr>
@@ -77,11 +55,9 @@ But here's the good news. I've taught this course enough times so that I have a 
     </tr>
 </table>
 
-I assigned these cutoffs after an analysis of historical grades. Big thing to note is that historically, the vast majority >80% of students end with a homework average >90%. This means that with a mean exam of 70% and a homework average >90% you are guaranteed a B+ which seems fair. 
+I assigned these cutoffs after an analysis of historical grades. Big thing to note is that historically, the vast majority >80% of students end with a homework average >90%. This means that with a mean exam of 78% and a homework average >90% you are guaranteed a B which seems fair. 
 
-Before anyone says, "what if everyone does really well?" keep in mind that I never curve down exams, only up if the average is below 70%. This means that it is still perfectly possible for the class average to be way higher than 75%. *Personally I'm hoping you guys surprise me this semester and the majority of the class falls in the A+ category. I guess we'll see.*
-
-This typically puts the average GPA of my course right around ~3.2 ish which is mostly in-line with what I see in the [rest of the ECE department](https://waf.cs.illinois.edu/discovery/grade_disparity_between_sections_at_uiuc/). I'm not promising an exact average, could be a bit lower, could be higher, but that's the rough target. 
+Before anyone says, "what if everyone does really well?" keep in mind that I never curve down exams, only up if the average is below 78%. This means that it is still perfectly possible for the class average to be way higher than 78%. *Personally, I'm hoping you guys surprise me this semester and the majority of the class falls in the A+ category. I guess we'll see.*
 
 Important notes: 
 - Grade cutoffs change for every semester simply because the exam/homework grade distributions change every semester. 
