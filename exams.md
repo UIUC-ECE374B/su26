@@ -118,16 +118,16 @@ title: Exams
 &nbsp;
 
 Couple things to note about exams:
-- All the midterms will be administered during lecture time in the usual lecture room. 
-- The final will be conducted according to the registrar's schedule. 
+- All the midterms will be administered during lecture time on Zoom. 
+- There will be no final. The final exam periods is for conflicts given to students with documented medical emergencies.  
 
 ### Exam Policies
 
-Besides the obvious "don't cheat" exam policies outlined in the [policies page](/policies/cheating) you should know about the following exam procedures: 
+Besides the obvious "don't cheat" exam policies outlined in the [policies page](/policies/cheating), you should know about the following exam procedures: 
 
 #### Summer exam testing procedure
 
-Since many of the summer students will be taking the course online, the xam policy need to be slightly modified. Hence exams will be still done synchronously on their assigned date at 10AM, but you have a choice of either (i) taking it in person in ECEB2015 or (ii) taking it online wherever you are. We will proctor those taking it online through Zoom and at the end of the session you can upload your exam to gradescope. So online students must make arangements to setup a Zoom enabled device monitoring a clear workspace. If you have the opportunity, I'd higly recommend coming to take it in person since you'll get a printed copy of the exam and won't have to worry about uploading it, but if that's not possible, we can make it work over Zoom same as we did during covid.  
+Since many of the summer students will be taking the course online, the exam policy needs to be slightly modified. Hence, exams will still be done synchronously on their assigned date at 10AM, but must be taken online over Zoom wherever you are. We will proctor through Zoom and at the end of the session you can upload your exam to Gradescope. So online students must make arrangements to set up a Zoom-enabled device monitoring a clear workspace.
 
 
 #### Exam conflicts
@@ -137,9 +137,9 @@ Exam conflict will be offered at the end of the semester during the final period
 
 #### Cheatsheet
 
-I've wrestled with the concept of cheatsheets a lot in past semesters. Ideally, what a cheatsheet is for is to help you memorize tedious equations or details that are easy to forget. However, I like to give exam questions that are very similar to the HWs/labs. In prior semesters, I noticed that cheat sheets didn't contain definitions/algorithms. Instead, they contained copied questions and solutions of HW/lab problems. Basically cheat sheets had become a "guess what Kani might put on the exam"-sheet. Worse, many, many people simply copied the cheatsheet solutions and were frustrated when they learned that those solutions didn't apply to the exam problems. This leaves me with two options: 
+I've wrestled with the concept of cheatsheets a lot in past semesters. Ideally, what a cheatsheet is for is to help you memorize tedious equations or details that are easy to forget. However, I like to give exam questions that are very similar to the HWs/labs. In prior semesters, I noticed that cheat sheets didn't contain definitions/algorithms. Instead, they contained copied questions and solutions of HW/lab problems. Basically, cheat sheets had become a "guess what Kani might put on the exam"-sheet. Worse, many, many people simply copied the cheatsheet solutions and were frustrated when they learned that those solutions didn't apply to the exam problems. This leaves me with two options: 
 
-- Make sure that the exam problems are changed up so that copying from a HW/lab problem would hurt more than help. 
+- Make sure that the exam problems are changed up so that copying from an HW/lab problem would hurt more than help. 
 - Eliminate cheatsheets altogether. 
 
 I think I've come up with a solution that'd help everyone. Over the course of several semesters, we've constructed a communal cheat sheet for each of the exams. These cheat sheets will be posted on the website well in advance of the exam and will be attached to the back of the exam. 
@@ -153,13 +153,13 @@ The exams will be scanned and uploaded to Gradescope where they will be graded b
 
 ### Regrades
 
-Regrades requests would be open for a week once grades are released (except for final exam). Regrade requests are not intended for arguing about point allocation, or whether the grading scale is fair.
+Regrades requests would be open for a week once grades are released (unless it is infeasible due to grade submission time constraints). Regrade requests are not intended for arguing about point allocation or whether the grading scale is fair.
 
-Unfortunately, certain students think that they can tire us into giving them point that they did not earn, by keep asking for unjustified regrade requests. This is especially true in the case of exams. I have had students that would submit a grade request for **every single exam problem** hoping for more points. That's not cool. As such, superfluous, argumentative and repetitive regrade requests, after an appropriate warning, would results in a zero on the relevant questions - please do not waste our time.
+Unfortunately, certain students think that they can tire us into giving them points that they did not earn, by continuously asking for unjustified regrade requests. This is especially true in the case of exams. I have had students that would submit a grade request for **every single exam problem**, hoping for more points. That's not cool. As such, superfluous, argumentative, and repetitive regrade requests, after an appropriate warning, would result in a zero on the relevant questions - please do not waste our time.
 
-Again, you should not fear submitting regrades if you have a question that you're confused and didn't gain any insight from the exam solutions (**please check the solutions first**). It's just that in any large group, there will be a few individuals that view teaching as an adversarial relationship and I have to make this stupid announcement for them. I hate it as much as you do. 
+Again, you should not fear submitting regrades if you have a question that you're confused and didn't gain any insight from the exam solutions (**please check the solutions first**). It's just that in any large group, there will be a few individuals who view teaching as an adversarial relationship and I have to make this stupid announcement for them. I hate it as much as you do. 
  
 ### DRES
 - If you have a DRES accommodation, please email the course staff directly (not sure if sending documents over Piazza is compliant with EHR policies or not, but why risk it). Make sure I respond that I've recorded your accommodation! If I don't respond email again.
-- Because of the limited staff, DRES students will take the exams at the [TAC](https://www.disability.illinois.edu/academic-accommodations-and-supports/academic-accommodations/testing-accommodations) synchronously with the rest of the class. We'll hammer out the details closer to MT1. 
-- Best thing you can do is to schedule the exams with TAC **now**. That way there is no chance on forgetting to schedule a slot and missing out on your accommodations.  
+- Because of the limited staff, if you plan on using a DRES accommodation, you will need to take the exam at the [TAC](https://www.disability.illinois.edu/academic-accommodations-and-supports/academic-accommodations/testing-accommodations) synchronously with the rest of the class. We do not have the staff to manage accommodations ourselves. 
+- Best thing you can do is to schedule the exams with TAC **now**. That way, there is no chance of forgetting to schedule a slot and missing out on your accommodations.  
