@@ -39,18 +39,18 @@ I've taught this course enough times so that I have a pretty good idea of the fi
         <td> F  </td>
     </tr>
     <tr>
-        <td> <s> 97 </td>
-        <td> <s> 93 </td>
-        <td> <s> 90 </td>
-        <td> <s> 87 </td>
-        <td> <s> 83 </td>
-        <td> <s> 80 </td>    
-        <td> <s> 77 </td>
-        <td> <s> 73 </td>
-        <td> <s> 70 </td>    
-        <td> <s> 67 </td>
-        <td> <s> 63 </td>
-        <td> <s> 60 </td>    
+        <td> 97 </td>
+        <td> 93 </td>
+        <td> 90 </td>
+        <td> 87 </td>
+        <td> 83 </td>
+        <td> 80 </td>    
+        <td> 77 </td>
+        <td> 73 </td>
+        <td> 70 </td>    
+        <td> 67 </td>
+        <td> 63 </td>
+        <td> 60 </td>    
         <td>  0  </td>    
     </tr>
 </table>
