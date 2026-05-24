@@ -13,7 +13,7 @@ deliverydate: 2026-05-28
 link-slides: /materials/lecture_slides/lec4.pdf
 link-scribbles: /materials/lecture_slides/lec4_scribbles_fa24.pdf
 link-recording: https://mediaspace.illinois.edu/media/t/1_lpb396cl
-pre-recording: 
+pre-recording: https://youtube.com/playlist?list=PLmCFrqjQFNr2B4KDBl3nZdVAkwKBwpq2m&si=dfhyu75GAf4n86DO
 ---
 
 <style>
