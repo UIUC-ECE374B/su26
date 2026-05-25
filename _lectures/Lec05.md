@@ -13,7 +13,7 @@ deliverydate: 2026-05-28
 link-slides: /materials/lecture_slides/lec5.pdf
 link-scribbles: /materials/lecture_slides/lec5_scribbles_fa23.pdf
 link-recording: https://mediaspace.illinois.edu/media/t/1_mftaxcm1
-pre-recording: 
+pre-recording: https://youtube.com/playlist?list=PLmCFrqjQFNr3oqjXdl_-8nh38JUEQts50&si=JskVPWvV_uEZb20Y
 ---
 
 <h4>Non-Regular Language</h4>
