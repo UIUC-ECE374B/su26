@@ -13,7 +13,7 @@ deliverydate: 2026-06-02
 link-slides: /materials/lecture_slides/lec6.pdf
 link-scribbles: /materials/lecture_slides/lec6_scribbles_fa23.pdf
 link-recording: https://mediaspace.illinois.edu/media/t/1_ivtlumuj
-pre-recording: 
+pre-recording: https://youtube.com/playlist?list=PLmCFrqjQFNr3-I89EiBJqhH7aVgMyqCmU&si=920EhgqIM296jETh
 ---
 
 <!-- Gautham's content begin-->
