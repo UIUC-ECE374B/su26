@@ -8,9 +8,9 @@ kani:
     bio: Teaching Assistant Professor 
     OHs: 
       OH1:
-        time-start: "16:00"
-        time-end: "17:00"
-        day: Thursday
+        time-start: "12:00"
+        time-end: "13:00"
+        day: Friday
         location: Zoom
 
 # ivan:
@@ -196,12 +196,12 @@ suyuan:
     role: grad
     image: /img/people/suyuan.jpg
     bio: Graduate Course Assistant
-#     OHs: 
-#       OH1:
-#         time-start: "10:00"
-#         time-end: "11:00"
-#         day: Wednesday
-#         location: 3001 ECEB
+    OHs: 
+      OH1:
+        time-start: "11:00"
+        time-end: "12:00"
+        day: Wednesday
+        location: Zoom
 
 
 deep:
@@ -212,12 +212,12 @@ deep:
     role: grad
     image: /img/people/deepgoradia.png
     bio: Graduate Course Assistant
-#     OHs: 
-#       OH1:
-#         time-start: "10:00"
-#         time-end: "11:00"
-#         day: Wednesday
-#         location: 3001 ECEB
+    OHs: 
+      OH1:
+        time-start: "11:00"
+        time-end: "12:00"
+        day: Friday
+        location: Zoom
 
 
 
