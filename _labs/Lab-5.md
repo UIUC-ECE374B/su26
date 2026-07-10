@@ -1,6 +1,6 @@
 ---
 title: Spacer
-subtitle: MT2
+subtitle: Post MT2 recovery
 placeholder: false
 back-color: fafafa
 # subtitle: And a subtitle
